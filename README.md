@@ -1,5 +1,7 @@
 ## Hi!
 
+- Currently I'm learning Python with the Bits & Bots Studygroup.
+- I am personally and professionally interested in archival science, cultural heritage and linked data.
 
 <!--
 **PhilipEno/PhilipEno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
